@@ -159,12 +159,21 @@ body{
 }
 .desc{
     position: absolute;
-    bottom: 10px;
     left:12px;
+    bottom:10px;
     margin-left:15px;
     color:rgb(243, 238, 238);
     font-size: 18px;
     font-weight: bold;
+}
+.desc1{
+    position:relative;
+    left:12px;
+    margin-left: 15px;
+    bottom:35px;
+    font-size:18px;
+    font-weight:bold;
+    color:rgb(243, 238, 238);
 }
 .large{
     grid-row:span 2;
